@@ -1,0 +1,6 @@
+.sort{
+    transform: rotate(90deg);
+}
+.sort_sorted{
+    transform: rotate(-90deg);
+}
